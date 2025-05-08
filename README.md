@@ -1,5 +1,7 @@
 # csci4444_final
 
+Note: the BAM file was too large to include in the repository.
+
 ## Usage
 ```
 usage: microdna.py [-h] <-f> FILE [-t] THRESHOLD [-c] CUTOFF
